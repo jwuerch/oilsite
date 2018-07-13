@@ -90,7 +90,7 @@
 							break;
 
 							case 'related':
-								mts_related_posts();
+								// mts_related_posts();
 							break;
 
 							case 'author':

@@ -1240,7 +1240,6 @@ if(function_exists('mts_register_typography')) {
     'Logo Font' => array(
 		'preview_text' => 'Logo',
 		'preview_color' => 'light',
-		'font_family' => 'Roboto Slab',
 		'font_variant' => 'normal',
 		'font_size' => '32px',
 		'font_color' => '#222',
@@ -1250,7 +1249,6 @@ if(function_exists('mts_register_typography')) {
   	'primary_navigation_font' => array(
 		'preview_text' => 'Primary Navigation Font',
 		'preview_color' => 'light',
-		'font_family' => 'Raleway',
 		'font_variant' => '500',
 		'font_size' => '13px',
 		'font_color' => '#777',
@@ -1259,7 +1257,6 @@ if(function_exists('mts_register_typography')) {
     'secondary_navigation_font' => array(
 		'preview_text' => 'Secondary Navigation Font',
 		'preview_color' => 'dark',
-		'font_family' => 'Raleway',
 		'font_variant' => '700',
 		'font_size' => '16px',
 		'font_color' => '#fff',
@@ -1269,7 +1266,6 @@ if(function_exists('mts_register_typography')) {
     'home_title_font' => array(
 		'preview_text' => 'Home Article Title',
 		'preview_color' => 'light',
-		'font_family' => 'Roboto Slab',
 		'font_size' => '38px',
 		'font_variant' => '300',
 		'font_color' => '#0274BE',
@@ -1278,7 +1274,6 @@ if(function_exists('mts_register_typography')) {
     'single_title_font' => array(
 		'preview_text' => 'Single Article Title',
 		'preview_color' => 'light',
-		'font_family' => 'Roboto Slab',
 		'font_size' => '38px',
 		'font_variant' => '300',
 		'font_color' => '#222',
@@ -1287,7 +1282,6 @@ if(function_exists('mts_register_typography')) {
     'content_font' => array(
 		'preview_text' => 'Content Font',
 		'preview_color' => 'light',
-		'font_family' => 'Raleway',
 		'font_size' => '16px',
 		'font_variant' => '500',
 		'font_color' => '#444444',
@@ -1296,7 +1290,6 @@ if(function_exists('mts_register_typography')) {
     'sidebar_title_font' => array(
 		'preview_text' => 'Sidebar Title Font',
 		'preview_color' => 'light',
-		'font_family' => 'Roboto Slab',
 		'font_variant' => 'normal',
 		'font_size' => '20px',
 		'font_color' => '#222222',
@@ -1306,7 +1299,6 @@ if(function_exists('mts_register_typography')) {
 	'sidebar_font' => array(
 		'preview_text' => 'Sidebar Font',
 		'preview_color' => 'light',
-		'font_family' => 'Raleway',
 		'font_variant' => '500',
 		'font_size' => '16px',
 		'font_color' => '#444444',
@@ -1315,7 +1307,6 @@ if(function_exists('mts_register_typography')) {
 	'top_footer_title_font' => array(
 		'preview_text' => 'Footer Title Font',
 		'preview_color' => 'dark',
-		'font_family' => 'Roboto Slab',
 		'font_variant' => 'normal',
 		'font_size' => '18px',
 		'font_color' => '#ffffff',
@@ -1325,7 +1316,6 @@ if(function_exists('mts_register_typography')) {
 	'top_footer_link_font' => array(
 		'preview_text' => 'Footer Links',
 		'preview_color' => 'dark',
-		'font_family' => 'Raleway',
 		'font_variant' => '500',
 		'font_size' => '16px',
 		'font_color' => '#999999',
@@ -1334,7 +1324,6 @@ if(function_exists('mts_register_typography')) {
 	'top_footer_font' => array(
 		'preview_text' => 'Footer Font',
 		'preview_color' => 'dark',
-		'font_family' => 'Raleway',
 		'font_variant' => '500',
 		'font_size' => '16px',
 		'font_color' => '#777777',
@@ -1343,7 +1332,6 @@ if(function_exists('mts_register_typography')) {
 	'copyrights_font' => array(
 		'preview_text' => 'Copyrights Font',
 		'preview_color' => 'dark',
-		'font_family' => 'Raleway',
 		'font_variant' => '500',
 		'font_size' => '14px',
 		'font_color' => '#7e7d7d',
@@ -1352,7 +1340,6 @@ if(function_exists('mts_register_typography')) {
     'h1_headline' => array(
 		'preview_text' => 'H1 Headline',
 		'preview_color' => 'light',
-		'font_family' => 'Roboto Slab',
 		'font_variant' => 'normal',
 		'font_size' => '28px',
 		'font_color' => '#222222',
@@ -1361,7 +1348,6 @@ if(function_exists('mts_register_typography')) {
 	'h2_headline' => array(
 		'preview_text' => 'H2 Headline',
 		'preview_color' => 'light',
-		'font_family' => 'Roboto Slab',
 		'font_variant' => 'normal',
 		'font_size' => '24px',
 		'font_color' => '#222222',
@@ -1370,7 +1356,6 @@ if(function_exists('mts_register_typography')) {
 	'h3_headline' => array(
 		'preview_text' => 'H3 Headline',
 		'preview_color' => 'light',
-		'font_family' => 'Roboto Slab',
 		'font_variant' => 'normal',
 		'font_size' => '22px',
 		'font_color' => '#222222',
@@ -1379,7 +1364,6 @@ if(function_exists('mts_register_typography')) {
 	'h4_headline' => array(
 		'preview_text' => 'H4 Headline',
 		'preview_color' => 'light',
-		'font_family' => 'Roboto Slab',
 		'font_variant' => 'normal',
 		'font_size' => '20px',
 		'font_color' => '#222222',
@@ -1388,7 +1372,6 @@ if(function_exists('mts_register_typography')) {
 	'h5_headline' => array(
 		'preview_text' => 'H5 Headline',
 		'preview_color' => 'light',
-		'font_family' => 'Roboto Slab',
 		'font_variant' => 'normal',
 		'font_size' => '18px',
 		'font_color' => '#222222',
@@ -1397,7 +1380,6 @@ if(function_exists('mts_register_typography')) {
 	'h6_headline' => array(
 		'preview_text' => 'H6 Headline',
 		'preview_color' => 'light',
-		'font_family' => 'Roboto Slab',
 		'font_variant' => 'normal',
 		'font_size' => '16px',
 		'font_color' => '#222222',
